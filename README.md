@@ -1,6 +1,12 @@
 # Sistema de Gestion Inmobiliaria — Base de Datos MySQL
 
-<img width="861" height="698" alt="image" src="https://github.com/user-attachments/assets/f2bc2a17-3bfc-4826-a7ee-fda99f1f9b31" />
+<img width="710" height="704" alt="image" src="https://github.com/user-attachments/assets/c64c20f1-a9c0-4788-9793-07cbf7bbf319" />
+
+<img width="732" height="756" alt="image" src="https://github.com/user-attachments/assets/0743c8da-f97b-4019-9ce0-cca4ab0fd866" />
+
+<img width="909" height="412" alt="image" src="https://github.com/user-attachments/assets/defbeddf-cf88-49d6-b8d7-926d049e38c8" />
+
+<img width="734" height="403" alt="image" src="https://github.com/user-attachments/assets/3e954196-428b-448c-8c99-bba2fbebcf13" />
 
 Base de datos normalizada hasta Tercera Forma Normal (3FN) para la gestion del portafolio de propiedades, clientes, contratos y pagos de una inmobiliaria. Incluye funciones personalizadas, triggers de auditoria, seguridad por roles, optimizacion con indices y eventos programados.
 
