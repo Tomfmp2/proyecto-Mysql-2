@@ -443,7 +443,6 @@ WHERE user IN ('admin_user', 'agente_carlos', 'conta_elena');
 
 - MySQL 8.0 — Motor de base de datos
 - InnoDB — Motor de almacenamiento con soporte de claves foraneas y transacciones
-- Charset utf8mb4 — Soporte completo de Unicode
 
 ---
 
