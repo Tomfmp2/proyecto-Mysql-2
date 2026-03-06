@@ -1,0 +1,16 @@
+La empresa desea analizar el rendimiento de sus vendedores y las ventas de propiedades. Actualmente, manejan las tablas vendedores, propiedades, ventas y clientes. El objetivo de este examen es crear consultas SQL que generen reportes y estadísticas útiles para la gerencia.
+
+A continuación se darán una sería de requerimientos a realizar para hacer efectivo el reporte:
+
+    Consulta 1: Mostrar el nombre del vendedor y la cantidad total de propiedades vendidas (usar JOIN y GROUP BY).
+    Consulta 2: Obtener las propiedades vendidas con un valor entre 150 millones y 400 millones (BETWEEN).
+    Consulta 3: Listar los clientes cuyos nombres contengan la palabra “Carlos” (LIKE).
+    Consulta 4: Mostrar todos los vendedores y las propiedades que han vendido (usar RIGHT JOIN para incluir vendedores sin ventas).
+    Consulta 5: Crear una vista llamada vista_resumen_ventas que muestre vendedor, total vendido y número de clientes atendidos.
+
+
+Resultado esperado
+
+ENTREGABLES:
+
+    Script de los requerimientos solicitados en un archivo .sql
